@@ -52,19 +52,12 @@ A comprehensive collection of resources for programming, certifications, and con
 - 🔐 **[CISM](https://www.isaca.org/credentialing/cism)** - Information security management
 
 #### Cisco Certifications
-- 🌐 **[CCNA (Cisco Certified Network Associate)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)** - Networking fundamentals
-- 🔒 **[CCNA Security](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna-security.html)** - Network security
-- 🛡️ **[CCNP Security](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccnp-security.html)** - Advanced network security
-- ☁️ **[CCNA Cloud](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna-cloud.html)** - Cloud networking
-- 🔧 **[CCNP Enterprise](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccnp-enterprise.html)** - Enterprise networking
+- 🌐 **[CCNA (Cisco Certified Network Associate)](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html#:~:text=Demonstrate%20practical%20skills%20like%20setting,where%20your%20career%20takes%20you.)** - Networking fundamentals
+- 🛡️ **[CCNP Security](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccnp-enterprise/index.html)** - Advanced network security
 
 #### Microsoft Certifications
-- 💻 **[Microsoft 365 Certified: Security Administrator Associate](https://docs.microsoft.com/en-us/learn/certifications/security-administrator-associate/)** - Security administration
-- 🔐 **[Microsoft Certified: Azure Security Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-security-engineer/)** - Azure security
-- 🛡️ **[Microsoft Certified: Information Protection Administrator Associate](https://docs.microsoft.com/en-us/learn/certifications/information-protection-administrator/)** - Data protection
-- 💻 **[Microsoft Certified: Azure Developer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/)** - Cloud development
-- 🔧 **[Microsoft Certified: DevOps Engineer Expert](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer/)** - DevOps practices
-- 📊 **[Microsoft Certified: Data Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-data-engineer/)** - Data engineering
+- 💻 **[Microsoft Certified: Azure Security Engineer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/?practice-assessment-type=certification)** - Security administration
+ 💻 **[Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification)** - Security Compliance
 
 #### Programming & Development
 - ☕ **[Oracle Java Certifications](https://education.oracle.com/java-certification)** - Java SE/EE
