@@ -38,9 +38,44 @@ A comprehensive collection of resources for programming, certifications, and con
 - **[YouTube Learning](https://www.youtube.com/learning)** - Free educational content
 
 ### Industry Certifications
-- **[AWS Certification](https://aws.amazon.com/certification/)** - Cloud computing leader
-- **[CompTIA A+](https://www.comptia.org/certifications/a)** - IT fundamentals
-- **[Google IT Support Certificate](https://grow.google/certificates/it-support/)** - Entry-level IT
+
+#### Cloud & Infrastructure
+- ☁️ **[AWS Certification](https://aws.amazon.com/certification/)** - Cloud computing leader
+- 🔵 **[Microsoft Azure Certifications](https://docs.microsoft.com/en-us/learn/certifications/)** - Cloud and development
+- 🌐 **[Google Cloud Certifications](https://cloud.google.com/certification)** - Google Cloud Platform
+
+#### Cybersecurity Certifications
+- 🛡️ **[CompTIA Security+](https://www.comptia.org/certifications/security)** - Entry-level cybersecurity
+- 🔒 **[CISSP](https://www.isc2.org/Certifications/CISSP)** - Advanced security management
+- ⚔️ **[CEH (Certified Ethical Hacker)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)** - Ethical hacking
+- 🎯 **[OSCP](https://www.offensive-security.com/pwk-oscp/)** - Penetration testing
+- 🔐 **[CISM](https://www.isaca.org/credentialing/cism)** - Information security management
+
+#### Cisco Certifications
+- 🌐 **[CCNA (Cisco Certified Network Associate)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)** - Networking fundamentals
+- 🔒 **[CCNA Security](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna-security.html)** - Network security
+- 🛡️ **[CCNP Security](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccnp-security.html)** - Advanced network security
+- ☁️ **[CCNA Cloud](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna-cloud.html)** - Cloud networking
+- 🔧 **[CCNP Enterprise](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccnp-enterprise.html)** - Enterprise networking
+
+#### Microsoft Certifications
+- 💻 **[Microsoft 365 Certified: Security Administrator Associate](https://docs.microsoft.com/en-us/learn/certifications/security-administrator-associate/)** - Security administration
+- 🔐 **[Microsoft Certified: Azure Security Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-security-engineer/)** - Azure security
+- 🛡️ **[Microsoft Certified: Information Protection Administrator Associate](https://docs.microsoft.com/en-us/learn/certifications/information-protection-administrator/)** - Data protection
+- 💻 **[Microsoft Certified: Azure Developer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/)** - Cloud development
+- 🔧 **[Microsoft Certified: DevOps Engineer Expert](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer/)** - DevOps practices
+- 📊 **[Microsoft Certified: Data Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-data-engineer/)** - Data engineering
+
+#### Programming & Development
+- ☕ **[Oracle Java Certifications](https://education.oracle.com/java-certification)** - Java SE/EE
+- 🐍 **[Python Institute Certifications](https://pythoninstitute.org/certification)** - Python programming
+- 🔴 **[Red Hat Certifications](https://www.redhat.com/en/services/certification)** - Linux and DevOps
+- 🍎 **[Apple Developer Certifications](https://developer.apple.com/certification/)** - iOS/macOS development
+
+#### Entry-Level IT
+- 🔧 **[CompTIA A+](https://www.comptia.org/certifications/a)** - IT fundamentals
+- 🌐 **[CompTIA Network+](https://www.comptia.org/certifications/network)** - Networking basics
+- 🎓 **[Google IT Support Certificate](https://grow.google/certificates/it-support/)** - Entry-level IT
 
 ## Fundamentals
 
@@ -142,30 +177,14 @@ A comprehensive collection of resources for programming, certifications, and con
 - [SSL/TLS Explained](https://www.cloudflare.com/learning/ssl/what-is-ssl/) - SSL/TLS protocols
 - [HTTP/2 and HTTP/3](https://developers.google.com/web/fundamentals/performance/http2) - Modern HTTP protocols
 
-## Certifications
+## Additional Certifications
 
-### Cloud Certifications
-- **AWS**: [AWS Certification](https://aws.amazon.com/certification/) - Amazon Web Services
-- **Azure**: [Microsoft Azure Certifications](https://docs.microsoft.com/en-us/learn/certifications/) - Microsoft Azure
-- **GCP**: [Google Cloud Certifications](https://cloud.google.com/certification) - Google Cloud Platform
+### Specialized Certifications
 - **Kubernetes**: [CNCF Certifications](https://www.cncf.io/certification/training/) - Cloud Native Computing
-
-### Programming Certifications
-- **Oracle Java**: [Oracle Java Certifications](https://education.oracle.com/java-certification) - Java SE/EE
-- **Microsoft**: [Microsoft Certifications](https://docs.microsoft.com/en-us/learn/certifications/) - .NET and Azure
-- **Python Institute**: [Python Certifications](https://pythoninstitute.org/certification) - Python programming
-- **Red Hat**: [Red Hat Certifications](https://www.redhat.com/en/services/certification) - Linux and DevOps
-
-### Security Certifications
-- **CompTIA**: [Security+](https://www.comptia.org/certifications/security) - Entry-level security
-- **CISSP**: [ISC² CISSP](https://www.isc2.org/Certifications/CISSP) - Advanced security
-- **CEH**: [EC-Council CEH](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/) - Ethical hacking
-- **OSCP**: [Offensive Security OSCP](https://www.offensive-security.com/pwk-oscp/) - Penetration testing
-
-### Networking Certifications
-- **CCNA**: [Cisco CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html) - Cisco networking
-- **Network+**: [CompTIA Network+](https://www.comptia.org/certifications/network) - General networking
-- **JNCIA**: [Juniper JNCIA](https://www.juniper.net/us/en/training/certification/) - Juniper networking
+- **Juniper**: [JNCIA](https://www.juniper.net/us/en/training/certification/) - Juniper networking
+- **VMware**: [VMware Certifications](https://www.vmware.com/education-services/certification.html) - Virtualization
+- **Salesforce**: [Salesforce Certifications](https://trailhead.salesforce.com/credentials) - CRM platform
+- **ServiceNow**: [ServiceNow Certifications](https://www.servicenow.com/services/training-and-certification.html) - IT service management
 
 ## Learning Platforms
 
